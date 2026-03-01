@@ -74,6 +74,6 @@ npm install -g cc-agent-load
 
 ## Part of cc-toolkit
 
-This tool is part of the [cc-toolkit](https://yurukusa.github.io/cc-toolkit/) collection — 27 free tools for understanding your Claude Code usage.
+This tool is part of the [cc-toolkit](https://yurukusa.github.io/cc-toolkit/) collection — 32 free tools for understanding your Claude Code usage.
 
 **Zero dependencies. No data sent anywhere. Runs entirely local.**
