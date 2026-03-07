@@ -1,6 +1,6 @@
 {
   "name": "@yurukusa/cc-stats-badge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a Claude Code stats badge for your GitHub README — streak, hours, autonomy ratio",
   "type": "module",
   "bin": {
@@ -31,5 +31,8 @@
   "homepage": "https://yurukusa.github.io/cc-toolkit/",
   "engines": {
     "node": ">=18"
+  },
+  "peerDependencies": {
+    "cc-agent-load": ">=1.0.0"
   }
 }
